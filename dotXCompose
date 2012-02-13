@@ -498,62 +498,62 @@ include "%L"
 <Multi_key> <colon> <parenleft>         : "☹"   U2639           # WHITE FROWNING FACE
 
 # unicode 6 emoticon additions
-<Multi_key> : "😀"   U1F600	# GRINNING FACE
+#<Multi_key> : "😀"   U1F600	# GRINNING FACE
 <Multi_key> <colon> <D>   : "😁"   U1F601	# GRINNING FACE WITH SMILING EYES
-<Multi_key> : "😂"   U1F602	# FACE WITH TEARS OF JOY
-<Multi_key> : "😃"   U1F603	# SMILING FACE WITH OPEN MOUTH
-<Multi_key> : "😄"   U1F604	# SMILING FACE WITH OPEN MOUTH AND SMILING EYES
-<Multi_key> : "😅"   U1F605	# SMILING FACE WITH OPEN MOUTH AND COLD SWEAT
+#<Multi_key> : "😂"   U1F602	# FACE WITH TEARS OF JOY
+#<Multi_key> : "😃"   U1F603	# SMILING FACE WITH OPEN MOUTH
+#<Multi_key> : "😄"   U1F604	# SMILING FACE WITH OPEN MOUTH AND SMILING EYES
+#<Multi_key> : "😅"   U1F605	# SMILING FACE WITH OPEN MOUTH AND COLD SWEAT
 <Multi_key> <X> <D>       : "😆"   U1F606	# SMILING FACE WITH OPEN MOUTH AND TIGHTLY-CLOSED EYES
 <Multi_key> <O> <colon> <rightparen>       : "😇"   U1F607	# SMILING FACE WITH HALO
 <Multi_key> <greate> <colon> <rightparen>  : "😈"   U1F608	# SMILING FACE WITH HORNS
 <Multi_key> <semicolon> <parenright>       : "😉"   U1F609	# WINKING FACE
-<Multi_key> : "😊"   U1F60A	# SMILING FACE WITH SMILING EYES
-<Multi_key> : "😋"   U1F60B	# FACE SAVOURING DELICIOUS FOOD
-<Multi_key> : "😌"   U1F60C	# RELIEVED FACE
-<Multi_key> : "😍"   U1F60D	# SMILING FACE WITH HEART-SHAPED EYES
+#<Multi_key> : "😊"   U1F60A	# SMILING FACE WITH SMILING EYES
+#<Multi_key> : "😋"   U1F60B	# FACE SAVOURING DELICIOUS FOOD
+#<Multi_key> : "😌"   U1F60C	# RELIEVED FACE
+#<Multi_key> : "😍"   U1F60D	# SMILING FACE WITH HEART-SHAPED EYES
 <Multi_key> <8> <rightparen>               : "😎"   U1F60E	# SMILING FACE WITH SUNGLASSES
-<Multi_key> : "😏"   U1F60F	# SMIRKING FACE
+#<Multi_key> : "😏"   U1F60F	# SMIRKING FACE
 <Multi_key> <colon> <|>                    : "😐"   U1F610	# NEUTRAL FACE
-<Multi_key> : "😑"   U1F611	# EXPRESSIONLESS FACE
-<Multi_key> : "😒"   U1F612	# UNAMUSED FACE
-<Multi_key> : "😓"   U1F613	# FACE WITH COLD SWEAT
-<Multi_key> : "😔"   U1F614	# PENSIVE FACE
-<Multi_key> : "😕"   U1F615	# CONFUSED FACE
-<Multi_key> : "😖"   U1F616	# CONFOUNDED FACE
-<Multi_key> : "😗"   U1F617	# KISSING FACE
+#<Multi_key> : "😑"   U1F611	# EXPRESSIONLESS FACE
+#<Multi_key> : "😒"   U1F612	# UNAMUSED FACE
+#<Multi_key> : "😓"   U1F613	# FACE WITH COLD SWEAT
+#<Multi_key> : "😔"   U1F614	# PENSIVE FACE
+#<Multi_key> : "😕"   U1F615	# CONFUSED FACE
+#<Multi_key> : "😖"   U1F616	# CONFOUNDED FACE
+#<Multi_key> : "😗"   U1F617	# KISSING FACE
 <Multi_key> <colon> <x>                     : "😘"   U1F618	# FACE THROWING A KISS
-<Multi_key> : "😙"   U1F619	# KISSING FACE WITH SMILING EYES
-<Multi_key> : "😚"   U1F61A	# KISSING FACE WITH CLOSED EYES
-<Multi_key> : "😛"   U1F61B	# FACE WITH STUCK-OUT TONGUE
+#<Multi_key> : "😙"   U1F619	# KISSING FACE WITH SMILING EYES
+#<Multi_key> : "😚"   U1F61A	# KISSING FACE WITH CLOSED EYES
+#<Multi_key> : "😛"   U1F61B	# FACE WITH STUCK-OUT TONGUE
 <Multi_key> <semicolon> <P>                 : "😜"   U1F61C	# FACE WITH STUCK-OUT TONGUE AND WINKING EYE
 <Multi_key> <colon>  <P>                    : "😝"   U1F61D	# FACE WITH STUCK-OUT TONGUE AND TIGHTLY-CLOSED EYES
-<Multi_key> : "😞"   U1F61E	# DISAPPOINTED FACE
-<Multi_key> : "😟"   U1F61F	# WORRIED FACE
+#<Multi_key> : "😞"   U1F61E	# DISAPPOINTED FACE
+#<Multi_key> : "😟"   U1F61F	# WORRIED FACE
 <Multi_key> <greater> <colon> <leftparen>   : "😠"   U1F620	# ANGRY FACE
-<Multi_key> : "😡"   U1F621	# POUTING FACE
+#<Multi_key> : "😡"   U1F621	# POUTING FACE
 <Multi_key> <colon> <quote> <leftparen>     : "😢"   U1F622	# CRYING FACE
 <Multi_key> <colon> <x>                     : "😣"   U1F623	# PERSEVERING FACE
-<Multi_key> : "😤"   U1F624	# FACE WITH LOOK OF TRIUMPH
-<Multi_key> : "😥"   U1F625	# DISAPPOINTED BUT RELIEVED FACE
-<Multi_key> : "😦"   U1F626	# FROWNING FACE WITH OPEN MOUTH
-<Multi_key> : "😧"   U1F627	# ANGUISHED FACE
-<Multi_key> : "😨"   U1F628	# FEARFUL FACE
-<Multi_key> : "😩"   U1F629	# WEARY FACE
-<Multi_key> : "😪"   U1F62A	# SLEEPY FACE
-<Multi_key> : "😫"   U1F62B	# TIRED FACE
-<Multi_key> : "😬"   U1F62C	# GRIMACING FACE
-<Multi_key> : "😭"   U1F62D	# LOUDLY CRYING FACE
-<Multi_key> : "😮"   U1F62E	# FACE WITH OPEN MOUTH
-<Multi_key> : "😯"   U1F62F	# HUSHED FACE
-<Multi_key> : "😰"   U1F630	# FACE WITH OPEN MOUTH AND COLD SWEAT
-<Multi_key> : "😱"   U1F631	# FACE SCREAMING IN FEAR
+#<Multi_key> : "😤"   U1F624	# FACE WITH LOOK OF TRIUMPH
+#<Multi_key> : "😥"   U1F625	# DISAPPOINTED BUT RELIEVED FACE
+#<Multi_key> : "😦"   U1F626	# FROWNING FACE WITH OPEN MOUTH
+#<Multi_key> : "😧"   U1F627	# ANGUISHED FACE
+#<Multi_key> : "😨"   U1F628	# FEARFUL FACE
+#<Multi_key> : "😩"   U1F629	# WEARY FACE
+#<Multi_key> : "😪"   U1F62A	# SLEEPY FACE
+#<Multi_key> : "😫"   U1F62B	# TIRED FACE
+#<Multi_key> : "😬"   U1F62C	# GRIMACING FACE
+#<Multi_key> : "😭"   U1F62D	# LOUDLY CRYING FACE
+#<Multi_key> : "😮"   U1F62E	# FACE WITH OPEN MOUTH
+#<Multi_key> : "😯"   U1F62F	# HUSHED FACE
+#<Multi_key> : "😰"   U1F630	# FACE WITH OPEN MOUTH AND COLD SWEAT
+#<Multi_key> : "😱"   U1F631	# FACE SCREAMING IN FEAR
 <Multi_key> <colon> <O>                     : "😲"   U1F632	# ASTONISHED FACE
-<Multi_key> : "😳"   U1F633	# FLUSHED FACE
-<Multi_key> : "😴"   U1F634	# SLEEPING FACE
-<Multi_key> : "😵"   U1F635	# DIZZY FACE
-<Multi_key> : "😶"   U1F636	# FACE WITHOUT MOUTH
-<Multi_key> : "😷"   U1F637	# FACE WITH MEDICAL MASK
+#<Multi_key> : "😳"   U1F633	# FLUSHED FACE
+#<Multi_key> : "😴"   U1F634	# SLEEPING FACE
+#<Multi_key> : "😵"   U1F635	# DIZZY FACE
+#<Multi_key> : "😶"   U1F636	# FACE WITHOUT MOUTH
+#<Multi_key> : "😷"   U1F637	# FACE WITH MEDICAL MASK
 
 <Multi_key> <colon> <asciitilde>	: "⍨"   U2368		# APL FUNCTIONAL SYMBOL TILDE DIAERESIS
 <Multi_key> <colon> <bar>		: "⸚"   U2E1A		# HYPHEN WITH DIAERESIS
