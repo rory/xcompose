@@ -58,6 +58,9 @@ include "%L"
 <Multi_key> <backslash> <comma>		: " "	U2009		# THIN SPACE
 <Multi_key> <s> <e> <c> : "§"   U00A7   # SECTION SIGN
 
+<Multi_key> <p> <a> <r> <a> : "¶"   U00B6   # PILCROW SIGN (Paragraph)
+<Multi_key> <P> <A> <R> <A> : "¶"   U00B6   # PILCROW SIGN (Paragraph)
+
 <Multi_key> <minus> <less>		: "←"	leftarrow	# LEFTWARDS ARROW
 <Multi_key> <minus> <asciicircum>	: "↑"	uparrow		# UPWARDS ARROW
 <Multi_key> <minus> <greater>		: "→"	rightarrow	# RIGHTWARDS ARROW
